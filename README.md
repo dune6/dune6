@@ -1,2 +1,2 @@
 + Computer Science student
-+ Commercial Flutter developer
++ Commercial Flutter developer (2021-2023)
